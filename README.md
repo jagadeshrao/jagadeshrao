@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I design and build high-performance embedded syste
 ---
 
 ## 🔧 What I Do
-- 🖼️ **Imaging Systems**: Real-time image acquisition using sensors like **XGS45K**, custom timing pipelines, and high-speed DDR3/Ethernet interfaces on Zynq SoCs
-- 📟 **Embedded Interfaces**: Implementing and debugging NAND (ONFI), eMMC 5.1, DP83869 Ethernet PHY, UART, and QSPI boot interfaces
+- 🖼️ **Imaging Systems**: Real-time image acquisition using CMOS sensors, custom timing pipelines, and high-speed DDR3/Ethernet interfaces on Zynq SoCs
+- 📟 **Embedded Interfaces**: Implementing and debugging memory, Ethernet, serial interface, and QSPI boot process
 - 💻 **Bare-Metal Development**: Building and optimizing firmware in C for performance-critical tasks—no OS, just registers and precision
 
 
